@@ -1,0 +1,10 @@
+DRC Rules Export File for PCB: D:\PCB_Projects\NRF24L01_Module_Patch_Antenna_PCB_Project\NRF24L01_Module_Patch_Antenna.PcbDoc
+RuleKind=ShortCircuit|RuleName=RF-SC|Scope=Board|Allowed=1
+RuleKind=SolderMaskExpansion|RuleName=Via|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=RF|Scope=Board|Minimum=0.00
+RuleKind=Width|RuleName=50-RF|Scope=Board|Minimum=10.00
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=3.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.95
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.00

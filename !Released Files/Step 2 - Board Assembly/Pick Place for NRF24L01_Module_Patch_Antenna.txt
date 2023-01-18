@@ -1,0 +1,30 @@
+Altium Designer Pick and Place Locations
+D:\PCB_Projects\NRF24L01_Module_Patch_Antenna_PCB_Project\Project Outputs for NRF24L01_Module_Patch_Antenna_PCB_Project\Pick Place\Pick Place for NRF24L01_Module_Patch_Antenna.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       17/01/23
+Time:       20:23
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment  Layer       Footprint  Center-X(mm) Center-Y(mm) Rotation Description                               
+Y1         16MHZ    TopLayer    HC-49S_SMD 39.5000      28.6000      180      "SMT Crystal"                             
+U1         NRF24L01 TopLayer    QFN50_20T  38.7000      36.4000      0        "2.4GHz Transceiver"                      
+R2         22K      TopLayer    RES_0402   39.7000      40.8000      270      "Resistor SMD 0402"                       
+R1         1M       TopLayer    RES_0402   39.5000      32.3000      180      "Resistor SMD 0402"                       
+L3         2.7nH    TopLayer    IND_0402   44.2000      37.1000      270      "Inductor SMD 0402"                       
+L2         8.2nH    TopLayer    IND_0402   42.6000      36.1000      270      "Inductor SMD 0402"                       
+L1         3.9nH    TopLayer    IND_0402   44.2000      35.1000      90       "Inductor SMD 0402"                       
+J1         HDRM_2X4 BottomLayer HDR_M_2X4  28.9000      34.4000      270      "CONN, HEADER, Male, pitch: 2.54mm, 8POS" 
+C9         22pF     TopLayer    CAP_0402   42.3000      32.3000      0        "Capacitor SMD 0402 10V"                  
+C8         22pF     TopLayer    CAP_0402   36.7000      32.3000      180      "Capacitor SMD 0402 10V"                  
+C7         1.5pF    TopLayer    CAP_0402   46.5000      37.6000      0        "Capacitor SMD 0402 10V"                  
+C6         1pF      TopLayer    CAP_0402   46.5000      39.0000      180      "Capacitor SMD 0402 10V"                  
+C5         33nF     TopLayer    CAP_0402   38.2000      40.8000      90       "Capacitor SMD 0402 10V"                  
+C4         4.7pF    TopLayer    CAP_0402   46.5000      34.6000      0        "Capacitor SMD 0402 10V"                  
+C3         2.2nF    TopLayer    CAP_0402   46.5000      33.2000      0        "Capacitor SMD 0402 10V"                  
+C2         1nF      TopLayer    CAP_0402   43.1000      40.8000      90       "Capacitor SMD 0402 10V"                  
+C1         10nF     TopLayer    CAP_0402   41.7000      40.8000      90       "Capacitor SMD 0402 10V"                  

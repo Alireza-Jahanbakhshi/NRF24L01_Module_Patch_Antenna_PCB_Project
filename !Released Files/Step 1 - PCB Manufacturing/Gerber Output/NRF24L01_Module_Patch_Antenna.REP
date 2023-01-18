@@ -1,0 +1,171 @@
+*************************************************************
+FileName = NRF24L01_Module_Patch_Antenna.GBR
+AutoAperture = True
+*************************************************************
+Generating : Board Outline
+      File : NRF24L01_Module_Patch_Antenna.GM28
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Licence
+      File : NRF24L01_Module_Patch_Antenna.GM4
+
+    Adding Layer      : Licence
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Manufacturing Notes
+      File : NRF24L01_Module_Patch_Antenna.GM3
+
+    Adding Layer      : Manufacturing Notes
+
+
+Used DCodes :
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : NRF24L01_Module_Patch_Antenna.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : NRF24L01_Module_Patch_Antenna.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : L2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : NRF24L01_Module_Patch_Antenna.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : L2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : NRF24L01_Module_Patch_Antenna.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : NRF24L01_Module_Patch_Antenna.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : NRF24L01_Module_Patch_Antenna.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : L2
+      File : NRF24L01_Module_Patch_Antenna.GBL
+
+    Adding Layer      : L2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D30
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : L1
+      File : NRF24L01_Module_Patch_Antenna.GTL
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
